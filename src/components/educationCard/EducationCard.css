@@ -1,3 +1,7 @@
+.root {
+  width: 50%;
+}
+
 .education-card {
   display: flex;
   flex-direction: row;
@@ -107,6 +111,9 @@
 }
 
 @media (max-width: 768px) {
+  .root {
+    width: 100%;
+  }
   .education-card {
     text-align: center;
   }

@@ -1,12 +1,15 @@
 .repo-card-div {
-  color: rgb(88, 96, 105);
+  color: rgb(45, 46, 48);
   background-color: rgb(255, 255, 255);
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+  border: 0.2px solid #c4d6ff;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 20px 30px -15px;
   padding: 2rem;
   cursor: pointer;
 }
 .repo-card-div:hover {
-  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
+  background-color: rgb(227, 225, 255);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 25px 30px 5px;
 }
 
 .repo-stats {
@@ -72,11 +75,11 @@
 }
 
 .dark-card-mode {
-  background-color: #171c28 !important;
-  color:white;
+  background-color: #1b2742 !important;
+  color: white;
 }
 .dark-card-mode p {
-  color:white;
+  color: white;
 }
 .dark-card-mode:hover {
   background-color: #55198b !important;

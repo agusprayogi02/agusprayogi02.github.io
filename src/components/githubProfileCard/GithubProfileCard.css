@@ -45,6 +45,7 @@
 .bio-text {
   line-height: 30px;
   font-size: 22px;
+  margin-right: 2em;
 }
 
 .desc-prof {
@@ -69,6 +70,7 @@
 
   .bio-text {
     font-size: 16px;
+    margin-right: 0px;
   }
 
   .image-content-profile {

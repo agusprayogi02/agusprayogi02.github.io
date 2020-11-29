@@ -13,7 +13,7 @@ export default function EducationCard({ school }) {
   };
   const { isDark } = useContext(StyleContext);
   return (
-    <div>
+    <div className="root">
       <Fade left duration={1000}>
         <div className="education-card">
           <div className="education-card-left">
@@ -39,9 +39,8 @@ export default function EducationCard({ school }) {
                 {school.subHeader}
               </h5>
               <p
-                className={`${
-                  isDark ? "dark-mode" : ""
-                } education-text-duration`}
+                className={`${isDark ? "dark-mode" : ""
+                  } education-text-duration`}
               >
                 {school.duration}
               </p>
