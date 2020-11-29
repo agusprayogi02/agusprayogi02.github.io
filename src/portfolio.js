@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Agus Prayogi",
   title: "Hi all, I'm Agus",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Flutter / Android Kotlin / Nodejs / React Native and some other cool libraries and frameworks."),
+  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Flutter / Android Kotlin / Laravel / React Native and some other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1OiU3GR6LLhuGgaAuDcIQPIckahG-RoBj/view?usp=sharing"
 };
 
@@ -43,16 +43,16 @@ const skillsSection = {
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fa-html5"
-    },
-    {
       skillName: "android",
       fontAwesomeClassname: "fa-android"
     },
     {
+      skillName: "html-5",
+      fontAwesomeClassname: "fa-html5"
+    },
+    {
       skillName: "css3",
-      fontAwesomeClassname: "bx:bxl-css3"
+      fontAwesomeClassname: "simple-icons:css3"
     },
     {
       skillName: "JavaScript",
@@ -67,28 +67,44 @@ const skillsSection = {
       fontAwesomeClassname: "ion:logo-nodejs"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "cib:npm"
+      skillName: "Kotlin",
+      fontAwesomeClassname: "cib:kotlin"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "dashicons:database",
-    },
-    {
-      skillName: "Firebase",
-      fontAwesomeClassname: "cib:firebase",
+      skillName: "Dart",
+      fontAwesomeClassname: "simple-icons:dart",
     },
     {
       skillName: "Flutter",
       fontAwesomeClassname: "cib:flutter",
     },
     {
+      skillName: "Laravel",
+      fontAwesomeClassname: "cib:laravel",
+    },
+    {
+      skillName: "Codeigniter",
+      fontAwesomeClassname: "cib:codeigniter",
+    },
+    {
       skillName: "Rest-Api",
       fontAwesomeClassname: "dashicons:rest-api",
     },
     {
+      skillName: "Firebase",
+      fontAwesomeClassname: "cib:firebase",
+    },
+    {
       skillName: "Mongodb",
       fontAwesomeClassname: "cib:mongodb",
+    },
+    {
+      skillName: "MySQl",
+      fontAwesomeClassname: "cib:mysql"
+    },
+    {
+      skillName: "Sqlite",
+      fontAwesomeClassname: "simple-icons:sqlite",
     },
   ]
 };
