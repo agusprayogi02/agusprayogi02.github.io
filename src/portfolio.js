@@ -106,6 +106,10 @@ const skillsSection = {
       skillName: 'Sqlite',
       fontAwesomeClassname: 'simple-icons:sqlite',
     },
+    {
+      skillName: 'Golang',
+      fontAwesomeClassname: 'cib:go',
+    },
   ],
 }
 
