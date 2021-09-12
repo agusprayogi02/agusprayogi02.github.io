@@ -11,7 +11,7 @@ const greeting = {
   subTitle: emoji(
     'A passionate Full Stuck Developer 🚀 I having an experience of building Web and Mobile applications with JavaScript / Flutter / Android Kotlin / Laravel / React Native and some other cool libraries and frameworks.',
   ),
-  resumeLink: 'https://drive.google.com/file/d/1K_8gJdStBNorM_A9mapvQfye5sHZVO4I/view?usp=sharing',
+  resumeLink: 'https://drive.google.com/file/d/1geefjVY_FvozU8dcWoMh6NQ8wvoiaWja/view?usp=sharing',
 }
 
 // Your Social Media Link
