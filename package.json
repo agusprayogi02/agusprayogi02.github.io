@@ -2,7 +2,6 @@
   "homepage": "https://agusprayogi02.github.io/",
   "name": "agusprayogi02.github.io",
   "version": "0.1.0",
-  "private": false,
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
     "apollo-boost": "^0.4.4",
@@ -39,5 +38,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "packageManager": "yarn@3.2.0"
 }
